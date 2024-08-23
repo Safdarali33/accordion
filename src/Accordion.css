@@ -1,0 +1,21 @@
+.acc-el{
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.acc-container{
+    display: flex;
+    flex-direction: column;
+    gap: 15px
+}
+
+/* .acc-title{
+    padding-bottom: 3px;
+    border-bottom: 1px solid black;
+} */
+
+.acc-description{
+    margin-top: 5px;
+    padding-top: 3px;
+    border-top: 1px solid black;
+}
